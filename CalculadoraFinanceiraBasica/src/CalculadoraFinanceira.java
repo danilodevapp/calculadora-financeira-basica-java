@@ -26,11 +26,10 @@ public class CalculadoraFinanceira {
         System.out.println(jurosSimples);
         System.out.println("");
 
-        System.out.println("Cálculo de Juros: ");
-        double juros = calcular.CalcularJuros(jurosSimples, jurosSimples, jurosSimples);
-        System.err.println(juros);
-        System.out.println();
-        
+        //System.out.println("Cálculo de Juros: ");
+        //double juros = calcular.CalcularJuros();
+        //System.out.println(juros);
+
     }
 
 }
